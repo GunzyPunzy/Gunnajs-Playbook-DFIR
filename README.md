@@ -9,3 +9,6 @@ How to investigate like a Gunnaj
   <summary> Utils </summary> 
 
 </details>
+
+# Ransomware groups sites
+https://www.ransomlook.io/groups
