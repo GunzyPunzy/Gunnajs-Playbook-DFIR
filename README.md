@@ -12,3 +12,9 @@ How to investigate like a Gunnaj
 
 # Ransomware groups sites
 https://www.ransomlook.io/groups
+
+# A PowerShell script to create an HTML report on recent changes in Active Directory.
+https://gist.github.com/jdhitsolutions/9255f0bf7fe0dc6d2dde868c18d5049f
+
+# A PowerShell function and format file for getting Active Directory user management events from the security event logs on domain controllers.
+https://gist.github.com/jdhitsolutions/a4e6291741ec95e3bfe53f15a380da47
