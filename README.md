@@ -11,6 +11,8 @@ How to investigate like a Gunnaj
 ### Registry Explorer
 https://ericzimmerman.github.io/#!index.md
 
+### ShellBag Explorer
+https://ericzimmerman.github.io/#!index.md
 
 </details>
 
