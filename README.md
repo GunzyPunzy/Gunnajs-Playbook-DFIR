@@ -1,4 +1,4 @@
-# Gunnajs-Playbook-IR
+# Gunnajs-Playbook-DFIR
 
 How to investigate like a Gunnaj
 
