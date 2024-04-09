@@ -8,6 +8,10 @@ How to investigate like a Gunnaj
 <details>
   <summary> Utils </summary> 
 
+### Registry Explorer
+https://ericzimmerman.github.io/#!index.md
+
+
 </details>
 
 # Ransomware groups sites
