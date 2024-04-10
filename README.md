@@ -16,6 +16,16 @@ https://ericzimmerman.github.io/#!index.md
 
 </details>
 
+# Hive Artifacts
+
+<details>
+  <summary> OS Version </summary> 
+
+  ```
+  SOFTWARE\Microsoft\Windows NT\CurrentVersion
+  ```
+</details>
+
 # Ransomware groups sites
 https://www.ransomlook.io/groups
 
