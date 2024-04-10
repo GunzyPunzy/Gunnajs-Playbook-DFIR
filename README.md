@@ -14,9 +14,6 @@ https://www.autopsy.com/
 ### Registry Explorer
 https://ericzimmerman.github.io/#!index.md
 
-### ShellBag Explorer
-https://ericzimmerman.github.io/#!index.md
-
 ### Prefetch Parser (PECmd.exe)
 https://ericzimmerman.github.io/#!index.md
 
@@ -31,13 +28,6 @@ https://github.com/Johnng007/Live-Forensicator
     <summary> Hives </summary> 
 
   ### Registry paths
-  <details>
-    <summary> OS Version </summary> 
-  
-  ```
-  SOFTWARE\Microsoft\Windows NT\CurrentVersion
-  ```
-  </details>
   
   <details>
     <summary> Time Zone </summary> 
