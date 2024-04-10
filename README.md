@@ -87,7 +87,7 @@ https://github.com/Johnng007/Live-Forensicator
     <summary> Windows Prefetch files </summary> 
     
   ### Last run times of applications & the number of times the application was run
-  #### Prefetch files are located in the **C:\Windows\Prefetch* directory**
+  #### Prefetch files are located in the **C:\Windows\Prefetch** directory
   #### Parse Prefetch file
   ```
   PECmd.exe -f <path-to-Prefetch-files> --csv <path-to-save-csv>
