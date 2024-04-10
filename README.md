@@ -14,6 +14,9 @@ https://ericzimmerman.github.io/#!index.md
 ### ShellBag Explorer
 https://ericzimmerman.github.io/#!index.md
 
+### Forensicator
+https://github.com/Johnng007/Live-Forensicator
+
 </details>
 
 # Hive Artifacts
