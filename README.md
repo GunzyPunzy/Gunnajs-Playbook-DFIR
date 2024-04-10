@@ -87,8 +87,13 @@ https://github.com/Johnng007/Live-Forensicator
     <summary> Windows Prefetch files </summary> 
     
   ### Last run times of applications & the number of times the application was run
+  #### Parse Prefetch file
   ```
-  https://ransomwatch.telemetry.ltd/#/recentposts
+  PECmd.exe -f <path-to-Prefetch-files> --csv <path-to-save-csv>
+  ```
+  #### Parse Prefetch directory
+  ```
+  PECmd.exe -d <path-to-Prefetch-files> --csv <path-to-save-csv>
   ```
   
 </details>
