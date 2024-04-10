@@ -82,6 +82,8 @@ https://ericzimmerman.github.io/#!index.md
   
   https://ransomwatch.telemetry.ltd/#/recentposts
   
+  </details>
+  
   <details>
     <summary> Recent Posts </summary> 
   
