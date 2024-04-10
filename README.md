@@ -73,12 +73,29 @@ https://ericzimmerman.github.io/#!index.md
 </details>
 
 # Ransomware 
- <details>
+<details>
+  <summary> Ransomware Onion URL's </summary> 
+ 
+  <details>
     <summary> Ransomware Onion URL's </summary> 
+  
+  https://ransomwatch.telemetry.ltd/#/recentposts
+  
+  <details>
+    <summary> Recent Posts </summary> 
   
   https://www.ransomlook.io/groups
   
   </details>
+
+  <details>
+    <summary> Public Decryption keys </summary> 
+  
+  https://www.nomoreransom.org/en/index.html
+  
+  </details>
+
+</details>
 
 
 # A PowerShell script to create an HTML report on recent changes in Active Directory.
