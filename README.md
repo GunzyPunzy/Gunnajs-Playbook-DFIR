@@ -19,9 +19,9 @@ https://ericzimmerman.github.io/#!index.md
 # Hive Artifacts
 
 <details>
-    <summary> Registry paths </summary> 
+    <summary> Hives </summary> 
 
-  ### Hives
+  ### Registry paths
   <details>
     <summary> OS Version </summary> 
   
