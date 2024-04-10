@@ -17,6 +17,9 @@ https://ericzimmerman.github.io/#!index.md
 ### ShellBag Explorer
 https://ericzimmerman.github.io/#!index.md
 
+### Prefetch Parser (PECmd.exe)
+https://ericzimmerman.github.io/#!index.md
+
 ### Forensicator
 https://github.com/Johnng007/Live-Forensicator
 
@@ -77,6 +80,19 @@ https://github.com/Johnng007/Live-Forensicator
   </details>
   
 </details>
+
+# Application run times
+
+<details>
+    <summary> Windows Prefetch files </summary> 
+    
+  ### Last run times of applications & the number of times the application was run
+  ```
+  https://ransomwatch.telemetry.ltd/#/recentposts
+  ```
+  
+</details>
+
 
 # Ransomware 
 <details>
