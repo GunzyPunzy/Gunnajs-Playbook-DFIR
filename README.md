@@ -25,33 +25,33 @@ https://ericzimmerman.github.io/#!index.md
   <details>
     <summary> OS Version </summary> 
   
-    ```
-    SOFTWARE\Microsoft\Windows NT\CurrentVersion
-    ```
+  ```
+  SOFTWARE\Microsoft\Windows NT\CurrentVersion
+  ```
   </details>
   
   <details>
     <summary> Time Zone </summary> 
   
-    ```
-    SYSTEM\CurrentControlSet\Control\TimeZoneInformation
-    ```
+  ```
+  SYSTEM\CurrentControlSet\Control\TimeZoneInformation
+  ```
   </details>
   
   <details>
     <summary> user information </summary> 
   
-    ```
-    SAM\Domains\Account\Users
-    ```
+  ```
+  SAM\Domains\Account\Users
+  ```
   </details>
   
   <details>
     <summary> user information </summary> 
-  
-    ```
-    SAM\Domains\Account\Users
-    ```
+
+  ```
+  SAM\Domains\Account\Users
+  ```
   </details>
 </details>
 
