@@ -39,7 +39,7 @@ https://ericzimmerman.github.io/#!index.md
   </details>
   
   <details>
-    <summary> user information </summary> 
+    <summary> User Fnformation </summary> 
   
   ```
   SAM\Domains\Account\Users
@@ -47,12 +47,28 @@ https://ericzimmerman.github.io/#!index.md
   </details>
   
   <details>
-    <summary> user information </summary> 
+    <summary> Recent Files </summary> 
 
   ```
-  SAM\Domains\Account\Users
+  NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
   ```
   </details>
+
+    <details>
+    <summary> Device identification </summary> 
+
+  ### Plugged Devices
+  ```
+  SYSTEM\CurrentControlSet\Enum\USBSTOR
+  ```
+  ```
+  SYSTEM\CurrentControlSet\Enum\USB
+  ```
+  ### USB device Volume Name
+   ```
+  SOFTWARE\Microsoft\Windows Portable Devices\Devices
+  </details>
+  
 </details>
 
 # Ransomware groups sites
