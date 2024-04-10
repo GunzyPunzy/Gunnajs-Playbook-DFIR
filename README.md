@@ -19,13 +19,40 @@ https://ericzimmerman.github.io/#!index.md
 # Hive Artifacts
 
 <details>
-  <summary> OS Version </summary> 
-
-  ```
-  SOFTWARE\Microsoft\Windows NT\CurrentVersion
-  ```
+    <summary> Hive paths </summary> 
+  
+  <details>
+    <summary> OS Version </summary> 
+  
+    ```
+    SOFTWARE\Microsoft\Windows NT\CurrentVersion
+    ```
+  </details>
+  
+  <details>
+    <summary> Time Zone </summary> 
+  
+    ```
+    SYSTEM\CurrentControlSet\Control\TimeZoneInformation
+    ```
+  </details>
+  
+  <details>
+    <summary> user information </summary> 
+  
+    ```
+    SAM\Domains\Account\Users
+    ```
+  </details>
+  
+  <details>
+    <summary> user information </summary> 
+  
+    ```
+    SAM\Domains\Account\Users
+    ```
+  </details>
 </details>
-
 # Ransomware groups sites
 https://www.ransomlook.io/groups
 
