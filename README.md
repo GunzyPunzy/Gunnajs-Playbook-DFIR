@@ -54,7 +54,7 @@ https://ericzimmerman.github.io/#!index.md
   ```
   </details>
 
-    <details>
+  <details>
     <summary> Device identification </summary> 
 
   ### Plugged Devices
@@ -65,8 +65,9 @@ https://ericzimmerman.github.io/#!index.md
   SYSTEM\CurrentControlSet\Enum\USB
   ```
   ### USB device Volume Name
-   ```
+  ```
   SOFTWARE\Microsoft\Windows Portable Devices\Devices
+  ```
   </details>
   
 </details>
