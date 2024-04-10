@@ -74,8 +74,9 @@ https://ericzimmerman.github.io/#!index.md
 
 # Ransomware 
 <details>
-  <summary> Ransomware Onion URL's </summary> 
- 
+  <summary> Ransomware sites </summary> 
+
+ ### Ransomware URL's 
   <details>
     <summary> Ransomware Onion URL's </summary> 
   
