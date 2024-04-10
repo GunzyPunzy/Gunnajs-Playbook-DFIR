@@ -8,6 +8,9 @@ How to investigate like a Gunnaj
 <details>
   <summary> Utils </summary> 
 
+### Autopsy
+https://www.autopsy.com/
+
 ### Registry Explorer
 https://ericzimmerman.github.io/#!index.md
 
