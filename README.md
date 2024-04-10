@@ -72,8 +72,14 @@ https://ericzimmerman.github.io/#!index.md
   
 </details>
 
-# Ransomware groups sites
-https://www.ransomlook.io/groups
+# Ransomware 
+ <details>
+    <summary> Ransomware Onion URL's </summary> 
+  
+  https://www.ransomlook.io/groups
+  
+  </details>
+
 
 # A PowerShell script to create an HTML report on recent changes in Active Directory.
 https://gist.github.com/jdhitsolutions/9255f0bf7fe0dc6d2dde868c18d5049f
