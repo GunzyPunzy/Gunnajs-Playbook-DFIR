@@ -39,7 +39,7 @@ https://ericzimmerman.github.io/#!index.md
   </details>
   
   <details>
-    <summary> User Fnformation </summary> 
+    <summary> User Information </summary> 
   
   ```
   SAM\Domains\Account\Users
@@ -55,7 +55,7 @@ https://ericzimmerman.github.io/#!index.md
   </details>
 
   <details>
-    <summary> Device identification </summary> 
+    <summary> Device Identification </summary> 
 
   ### Plugged Devices
   ```
