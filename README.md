@@ -97,15 +97,15 @@ https://github.com/Johnng007/Live-Forensicator
  ### Ransomware URL's 
   <details>
     <summary> Ransomware Onion URL's </summary> 
-  
-  https://ransomwatch.telemetry.ltd/#/recentposts
+ 
+  https://www.ransomlook.io/groups
   
   </details>
   
   <details>
     <summary> Recent Posts </summary> 
   
-  https://www.ransomlook.io/groups
+  https://ransomwatch.telemetry.ltd/#/recentposts
   
   </details>
 
