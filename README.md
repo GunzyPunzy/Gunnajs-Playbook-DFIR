@@ -118,6 +118,24 @@ https://github.com/Johnng007/Live-Forensicator
 
 </details>
 
+# Malware analysis
+<details>
+  <summary> Tools and sites </summary> 
+
+  <details>
+    <summary> Sites for malware analysis </summary> 
+  
+  https://www.virustotal.com/gui/home/upload
+
+  https://any.run/
+  
+  
+  </details>
+
+
+
+</details>
+
 
 # A PowerShell script to create an HTML report on recent changes in Active Directory.
 https://gist.github.com/jdhitsolutions/9255f0bf7fe0dc6d2dde868c18d5049f
