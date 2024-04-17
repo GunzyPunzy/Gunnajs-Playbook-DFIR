@@ -25,6 +25,16 @@ https://github.com/Johnng007/Live-Forensicator
 # Hive Artifacts
 
 ### Registry paths
+
+<details>
+  <summary> Locations  </summary> 
+
+### SAM, SECURITY & SOFTWARE
+
+```
+C:\Windows\System32\config
+```
+</details>
   
 <details>
   <summary> Time Zone </summary> 
