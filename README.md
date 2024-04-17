@@ -63,6 +63,7 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
 </details>
 <details>
   <summary> USB device Volume Name </summary> 
+  
   ```
   SOFTWARE\Microsoft\Windows Portable Devices\Devices
   ```
