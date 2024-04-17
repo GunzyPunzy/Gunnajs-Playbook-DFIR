@@ -24,9 +24,6 @@ https://github.com/Johnng007/Live-Forensicator
 
 # Hive Artifacts
 
-<details>
-    <summary> Hives </summary> 
-
   ### Registry paths
   
   <details>
@@ -53,8 +50,8 @@ https://github.com/Johnng007/Live-Forensicator
   ```
   </details>
 
-  <details>
-    <summary> Device Identification </summary> 
+  
+    
 
   ### Plugged Devices
   ```
@@ -68,8 +65,7 @@ https://github.com/Johnng007/Live-Forensicator
   SOFTWARE\Microsoft\Windows Portable Devices\Devices
   ```
   </details>
-  
-</details>
+
 
 # Application run times
 
