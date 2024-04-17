@@ -93,47 +93,30 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
 <details>
   <summary> Ransomware sites </summary> 
 
- ### Ransomware URL's 
-  <details>
-    <summary> Ransomware Onion URL's </summary> 
+  ### Ransomware Onion URL's 
  
   https://www.ransomlook.io/groups
-  
-  </details>
-  
-  <details>
-    <summary> Recent Posts </summary> 
+   
+  ### Recent Posts
   
   https://ransomwatch.telemetry.ltd/#/recentposts
   
-  </details>
-
-  <details>
-    <summary> Public Decryption keys </summary> 
+  ### Public Decryption keys 
   
   https://www.nomoreransom.org/en/index.html
   
-  </details>
-
 </details>
 
 # Malware analysis
-<details>
-  <summary> Tools and sites </summary> 
-
   <details>
     <summary> Sites for malware analysis </summary> 
   
   https://www.virustotal.com/gui/home/upload
 
   https://any.run/
-  
-  
+   
   </details>
 
-
-
-</details>
 
 
 # A PowerShell script to create an HTML report on recent changes in Active Directory.
