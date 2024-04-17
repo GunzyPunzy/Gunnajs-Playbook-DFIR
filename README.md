@@ -34,6 +34,13 @@ https://github.com/Johnng007/Live-Forensicator
 ```
 C:\Windows\System32\config
 ```
+
+### NTUSER
+
+```
+C:\Users\<User>
+```
+
 </details>
   
 <details>
