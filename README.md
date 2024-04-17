@@ -20,12 +20,6 @@ https://ericzimmerman.github.io/#!index.md
 ### Forensicator
 https://github.com/Johnng007/Live-Forensicator
 
-### Redline
-https://fireeye.market/apps/211364
-
-### IOC Editor
-https://fireeye.market/apps/S7cWpi9W
-
 </details>
 
 # Hive Artifacts
