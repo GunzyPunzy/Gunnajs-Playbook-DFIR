@@ -52,7 +52,7 @@ https://github.com/Johnng007/Live-Forensicator
 
   ### Plugged Devices
   <details>
-    <summary> User Information </summary> 
+    <summary> USB Devices </summary> 
   
   ```
   SYSTEM\CurrentControlSet\Enum\USBSTOR
@@ -60,12 +60,13 @@ https://github.com/Johnng007/Live-Forensicator
   ```
   SYSTEM\CurrentControlSet\Enum\USB
   ```
-  ### USB device Volume Name
+<details>
+    <summary> USB device Volume Name </summary> 
   ```
   SOFTWARE\Microsoft\Windows Portable Devices\Devices
   ```
   </details>
-
+</details>
 
 # Application run times
 
