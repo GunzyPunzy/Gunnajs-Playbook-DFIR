@@ -24,35 +24,35 @@ https://github.com/Johnng007/Live-Forensicator
 
 # Hive Artifacts
 
-  ### Registry paths
+### Registry paths
   
-  <details>
-    <summary> Time Zone </summary> 
+<details>
+  <summary> Time Zone </summary> 
   
-  ```
-  SYSTEM\CurrentControlSet\Control\TimeZoneInformation
-  ```
-  </details>
+```
+SYSTEM\CurrentControlSet\Control\TimeZoneInformation
+```
+</details>
   
-  <details>
-    <summary> User Information </summary> 
+<details>
+  <summary> User Information </summary> 
   
-  ```
-  SAM\Domains\Account\Users
-  ```
-  </details>
+```
+SAM\Domains\Account\Users
+```
+</details>
   
-  <details>
-    <summary> Recent Files </summary> 
+<details>
+  <summary> Recent Files </summary> 
 
-  ```
-  NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
-  ```
-  </details> 
+```
+NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+```
+</details> 
 
-  ### Plugged Devices
-  <details>
-    <summary> USB Devices </summary> 
+### Plugged Devices
+<details>
+  <summary> USB Devices </summary> 
   
   ```
   SYSTEM\CurrentControlSet\Enum\USBSTOR
@@ -60,8 +60,9 @@ https://github.com/Johnng007/Live-Forensicator
   ```
   SYSTEM\CurrentControlSet\Enum\USB
   ```
+</details>
 <details>
-    <summary> USB device Volume Name </summary> 
+  <summary> USB device Volume Name </summary> 
   ```
   SOFTWARE\Microsoft\Windows Portable Devices\Devices
   ```
