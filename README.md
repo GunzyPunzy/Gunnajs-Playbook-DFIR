@@ -48,12 +48,12 @@ https://github.com/Johnng007/Live-Forensicator
   ```
   NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
   ```
-  </details>
-
-  
-    
+  </details> 
 
   ### Plugged Devices
+  <details>
+    <summary> User Information </summary> 
+  
   ```
   SYSTEM\CurrentControlSet\Enum\USBSTOR
   ```
