@@ -22,6 +22,12 @@ https://github.com/Johnng007/Live-Forensicator
 
 </details>
 
+# Create forensic image
+<details>
+  <summary> FTK Imager </summary> 
+
+</details>
+
 # Hive Artifacts
 
 ### Registry paths
@@ -133,7 +139,6 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
   https://any.run/
    
   </details>
-
 
 
 # A PowerShell script to create an HTML report on recent changes in Active Directory.
