@@ -39,6 +39,31 @@ https://github.com/Velocidex/WinPmem
 
 </details>
 
+# Create memory dump
+<details>
+  <summary> WinPmem </summary> 
+ 
+```
+winpmem_mini_x64.exe physmem.raw
+``` 
+
+</details>
+
+<details>
+  <summary> Forensicator </summary> 
+ 
+```
+.\Forensicator.ps1 -RAM RAM
+```
+
+<details>
+  <summary> FTK Imager </summary> 
+ 
+1. File
+2. Capture Memory...
+
+</details>
+
 # Hive Artifacts
 
 ### Registry paths
