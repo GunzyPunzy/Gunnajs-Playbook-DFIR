@@ -25,6 +25,11 @@ https://github.com/Johnng007/Live-Forensicator
 # Create forensic image
 <details>
   <summary> FTK Imager </summary> 
+ 
+  1. Create disk image
+  2. Physical Drive
+  3. Raw (dd)
+  4. Image Fragment Size = 0
 
 </details>
 
