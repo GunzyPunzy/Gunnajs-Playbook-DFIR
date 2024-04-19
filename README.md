@@ -20,6 +20,12 @@ https://ericzimmerman.github.io/#!index.md
 ### Forensicator
 https://github.com/Johnng007/Live-Forensicator
 
+### Volatilty 
+https://github.com/volatilityfoundation/volatility3
+
+### WinPmem
+https://github.com/Velocidex/WinPmem
+
 </details>
 
 # Create forensic image
