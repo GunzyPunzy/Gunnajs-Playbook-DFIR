@@ -56,6 +56,8 @@ winpmem_mini_x64.exe physmem.raw
 .\Forensicator.ps1 -RAM RAM
 ```
 
+</details>
+
 <details>
   <summary> FTK Imager </summary> 
  
