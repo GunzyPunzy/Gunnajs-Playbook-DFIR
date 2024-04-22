@@ -25,6 +25,7 @@ https://github.com/volatilityfoundation/volatility3
 
 <details>
   <summary> Installation </summary> 
+
 ``` 
 git clone https://github.com/volatilityfoundation/volatility3.git
 cd volatility3
