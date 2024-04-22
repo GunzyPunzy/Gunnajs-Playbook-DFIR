@@ -194,8 +194,17 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
     <summary> Memory analysis </summary> 
   
   ### Volatility
-   
-  </details>
+<details>
+  <summary> Memory analysis </summary> 
+
+  # Get processes tree (not hidden)
+python3 vol.py -f file.dmp windows.pstree.PsTree # Get processes tree (not hidden)
+# Get process list (EPROCESS)
+python3 vol.py -f file.dmp windows.pslist.PsList 
+# Get hidden process list(malware)
+python3 vol.py -f file.dmp windows.psscan.PsScan
+ </details>
+</details>
 
 
 # A PowerShell script to create an HTML report on recent changes in Active Directory.
