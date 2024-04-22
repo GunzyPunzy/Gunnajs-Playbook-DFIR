@@ -197,45 +197,49 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
 <details>
   <summary> Memory analysis </summary> 
 
+#### Get imageinfo
+```
+python3 vol.py -f <file> windows.info
+```
 #### Get processes tree (not hidden)
 ```
-python3 vol.py -f file.dmp windows.pstree.PsTree # Get processes tree (not hidden)
+python3 vol.py -f <file> windows.pstree # Get processes tree (not hidden)
 ```
 #### Get process list (EPROCESS)
 ```
-python3 vol.py -f file.dmp windows.pslist.PsList 
+python3 vol.py -f <file> windows.pslist
 ```
-#### Get hidden process list(malware)
+#### Get hidden process list (malware)
 ```
-python3 vol.py -f file.dmp windows.psscan.PsScan
+python3 vol.py -f <file> windows.psscan
 ```
 #### Display process command-line arguments
 ```
-python3 vol.py -f file.dmp windows.cmdline.CmdLine
+python3 vol.py -f <file> file.dmp windows.cmdline
 ```
 #### List dlls
 ```
-./vol.py -f file.dmp windows.dlllist.DllList [--pid <pid>]
+python3 vol.py -f <file> file.dmp windows.dlllist [--pid <pid>]
 ```
 ### Dump the .exe and dlls of the process in the current directory process
 ``` 
-./vol.py -f file.dmp windows.dumpfiles.DumpFiles --pid <pid> 
+python3 vol.py -f <file> windows.dumpfiles --pid <pid> 
 ```
 ### Network scan
 ```
-./vol.py -f file.dmp windows.netscan.NetScan
+python3 vol.py -f <file>p windows.netscan
 ```
 #### Find hidden and injected
 ```
-./vol.py -f file.dmp windows.malfind.Malfind 
+python3 vol.py -f <file> windows.malfind
 ```
 #### Yarascan
 ```
-./vol.py -f file.dmp windows.vadyarascan.VadYaraScan --yara-file /tmp/malware_rules.yar
+python3 vol.py -f <file> windows.yarascan --yara-file /tmp/malware_rules.yar
 ```
 #### Scan for mutexes
 ```
-./vol.py -f file.dmp windows.mutantscan.MutantScan
+python3 vol.py -f <file> windows.mutantscan
 ```
 
  </details>
