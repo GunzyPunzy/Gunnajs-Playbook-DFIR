@@ -208,7 +208,32 @@ python3 vol.py -f file.dmp windows.pslist.PsList
 #### Get hidden process list(malware)
 ```
 python3 vol.py -f file.dmp windows.psscan.PsScan
+```
+#### Display process command-line arguments
+```
+python3 vol.py -f file.dmp windows.cmdline.CmdLine
+```
+#### List dlls
+```
+./vol.py -f file.dmp windows.dlllist.DllList [--pid <pid>]
+```
+### Dump the .exe and dlls of the process in the current directory process
 ``` 
+./vol.py -f file.dmp windows.dumpfiles.DumpFiles --pid <pid> 
+```
+### Network scan
+```
+./vol.py -f file.dmp windows.netscan.NetScan
+```
+#### Find hidden and injected
+```
+./vol.py -f file.dmp windows.malfind.Malfind 
+```
+#### Yarascan
+```
+./vol.py -f file.dmp windows.vadyarascan.VadYaraScan --yara-file /tmp/malware_rules.yar
+```
+
  </details>
 </details>
 
