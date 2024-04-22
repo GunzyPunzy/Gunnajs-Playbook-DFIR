@@ -23,6 +23,17 @@ https://github.com/Johnng007/Live-Forensicator
 ### Volatilty 
 https://github.com/volatilityfoundation/volatility3
 
+<details>
+  <summary> Installation </summary> 
+``` 
+git clone https://github.com/volatilityfoundation/volatility3.git
+cd volatility3
+python3 setup.py install
+python3 vol.py —h
+```
+
+</details>
+
 ### WinPmem
 https://github.com/Velocidex/WinPmem
 
