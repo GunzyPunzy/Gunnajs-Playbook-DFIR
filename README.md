@@ -233,6 +233,10 @@ python3 vol.py -f file.dmp windows.cmdline.CmdLine
 ```
 ./vol.py -f file.dmp windows.vadyarascan.VadYaraScan --yara-file /tmp/malware_rules.yar
 ```
+#### Scan for mutexes
+```
+./vol.py -f file.dmp windows.mutantscan.MutantScan
+```
 
  </details>
 </details>
