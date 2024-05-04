@@ -187,6 +187,8 @@ NTUSER.DAT\Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
   https://www.virustotal.com/gui/home/upload
 
   https://any.run/
+
+  https://hybrid-analysis.com/
    
   </details>
 
